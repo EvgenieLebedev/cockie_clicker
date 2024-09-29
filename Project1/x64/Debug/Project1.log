@@ -1,0 +1,20 @@
+﻿  main.cpp
+D:\Demo_project\Project1\main.cpp(53,85): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Demo_project\Project1\main.cpp(53,73): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Project1.vcxproj -> D:\Demo_project\Project1\x64\Debug\Project1.exe
